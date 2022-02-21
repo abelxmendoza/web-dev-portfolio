@@ -1,0 +1,36 @@
+.App {
+    display: flex;
+    flex-direction: row;
+}
+
+.leftside {
+
+    width: 30%;
+    height: 150vh;
+    background-color: lavender;
+}
+
+.profilepic {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.profilepic img {
+
+    border-radius: 100px;
+}
+
+.Links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.rightside {
+
+    width: 100%;
+    height: 150vh;
+    background-color: purple;
+}
