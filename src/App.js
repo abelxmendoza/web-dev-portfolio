@@ -66,6 +66,7 @@ export default function App() {
 
         <div className= 'Hobbies'>
           <h2>Hobbies</h2>
+          <p>I’m interested in tech, web3, MMA, HomeBrewing, Investing, Anime, Film</p>
 
         </div>
 

@@ -14,12 +14,16 @@
     display: flex;
     justify-content: center;
     margin-top: 20px;
+    border-color: purple;
+    
 }
 
 .profilepic img {
 
     border-radius: 100px;
+    
 }
+
 
 .Links {
     display: flex;
@@ -33,4 +37,8 @@
     width: 100%;
     height: 150vh;
     background-color: purple;
+}
+
+.Name {
+
 }
